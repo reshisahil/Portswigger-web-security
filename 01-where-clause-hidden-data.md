@@ -5,6 +5,7 @@
 **Category:** SQL Injection
 **Status:** Solved
 
+**SQL injection (SQLi) is a security vulnerability where an attacker inserts malicious Structured Query Language (SQL) commands into a website's input fields to trick the backend database into executing unintended instructions**
 ## 1. Lab Objective
 
 The application contains a SQL injection vulnerability in its product category filter.
