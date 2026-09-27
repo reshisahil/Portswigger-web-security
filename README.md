@@ -1,6 +1,10 @@
-# PortSwigger-Web-Security-Academy/
-notes about what i understood in the lab
+# PortSwigger-Web-Security-Academy
 
+Notes about what I understood while solving PortSwigger Web Security Academy labs.
+
+## Repository Structure
+
+```text
 web-security-notes/
 │
 ├── SQL-Injection/
