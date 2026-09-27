@@ -67,7 +67,8 @@ The application displayed unreleased products, successfully completing the lab.
 * Validate input as an additional security measure.
 
 ## 7. What I Learned
+. The problem is that the application is treating user input as part of the SQL code.
 
-This lab helped me understand how SQL injection can manipulate a `WHERE` clause and expose data that the application was supposed to hide.
+. This lab helped me understand how SQL injection can manipulate a `WHERE` clause and expose data that the application was supposed to hide.
 
 **Lab completed:** ✅
