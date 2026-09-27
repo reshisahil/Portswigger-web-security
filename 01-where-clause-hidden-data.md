@@ -62,6 +62,14 @@ The application displayed unreleased products, successfully completing the lab.
 
 * Use parameterized queries or prepared statements.
  # Parameterized queries prevent SQL injection by separating SQL instructions from user input, ensuring that supplied values are treated as data rather than executable SQL code.
+
+Safe query using parameterization
+username = input("Enter username: ")
+
+query = "SELECT * FROM users WHERE username = ?"
+
+cursor.execute(query, (username,))
+
 * Avoid building SQL queries by directly concatenating user input.
 * Apply appropriate database permissions.
 * Validate input as an additional security measure.
