@@ -1,4 +1,4 @@
-# web-security-notes
+# PortSwigger-Web-Security-Academy/
 notes about what i understood in the lab
 
 web-security-notes/
